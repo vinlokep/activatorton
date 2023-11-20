@@ -1,0 +1,5 @@
+git+https://github.com/codertelethon/telebytes
+telethon==1.30.3
+requests
+aiohttp
+regex
